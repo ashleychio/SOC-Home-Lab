@@ -25,4 +25,4 @@ Build a virtualised home lab environment for learning cybersecurity concepts and
 ## Next Steps
 - Learn Linux fundamentals
 - Explore the Linux file system
-- Learn basic networking
+- Learn basic networking commands
