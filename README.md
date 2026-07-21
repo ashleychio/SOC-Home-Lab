@@ -20,9 +20,13 @@ Virtual Machines:
 
 ## Progress
 ### Day 1
+- Set up computer
 - Installed VirtualBox
 - Created Kali Linux virtual machine
-- Learned basic Linux navigation
+  
+### Day 2
+- Learn Linux fundamentals
+- Learn basic networking commands
 
 ## Future Plans
 - Add Windows VM
