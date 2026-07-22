@@ -1,7 +1,7 @@
 # Linux Fundamentals
 
 ## Objective
-Learned and practiced common Linux commands to create a foundational understanding for future projects.
+Learn and practice common Linux commands to create a foundational understanding for future projects.
 
 ## Topics Covered
 
