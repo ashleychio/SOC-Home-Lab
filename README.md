@@ -17,19 +17,23 @@ Hardware:
 
 Virtual Machines:
 - Kali Linux
+- Windows 11
 
 ## Progress
-### Day 1
+### Phase 1: Lab Environment Setup
 - Set up computer
 - Installed VirtualBox
 - Created Kali Linux virtual machine
   
-### Day 2
+### Phase 2: Linux Fundamentals & Networking
 - Learn Linux fundamentals
 - Learn basic networking commands
 
+### Phase 3: Windows 11 VM Setup
+- Created and configured a Windows 11 vm using Virtual Box
+- Adjusted VM and Windows settings for a complete intial system setup
+
 ## Future Plans
-- Add Windows VM
 - Install Sysmon
 - Learn Wireshark
 - Build SIEM monitoring with Splunk/Wazuh
