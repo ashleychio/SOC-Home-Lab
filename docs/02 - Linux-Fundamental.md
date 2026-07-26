@@ -10,15 +10,16 @@ Navigated through the Linux file system, created and managed files and directori
 
 Commands Practiced:
 - pwd - Display current working directory
-- ls - List files and directories
+- ls - List files and directories (-l: display permissions, owner, size, modification data / -a: includes hidden files)
 - cd - Change the current directory
 - mkdir - Create a new directory
 - touch - Create a new empty file
 - cp - Copy files or directories
+- rm - Delete a file (-r: delete a directory and everything inside it)
 - cat	- Display the contents of a file
-- less	- View large files one page at a time
+- less	- View large files one page at a time (-N: Show line numbers)
 - grep	- Search for text within files or command output
-- find	- Locate files and directories
+- find	- Locate files and directories (-name: search files by name)
 
 ### Users and Privileges
 Learned Linux permission levels and elevated privileges
@@ -27,10 +28,10 @@ Commands Practiced:
 - whoami - Display the current logged-in user
 - id - Display user and group information
 - sudo - Execute commands with elevated privileges
-- chmod	- Modify file and directory permissions
+- chmod	- Modify file and directory permissions (+x - add execution permissions / 700, 750 - common exectuable permissions) 
 
 ### Processes
-- Monitored running processes and identified active processes and PIDs
+Monitored running processes and identified active processes and PIDs
 
 Commands Practiced:
 - ps	- Display running processes
