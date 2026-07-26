@@ -22,3 +22,6 @@ Set up a Windows 11 virtual machine to be the endpoint for my SOC home lab. This
 ## Next Steps
 - Install Sysmon and configure sysmon logging
 - Install Wazuh
+
+![Windows11 Setting](images/Windows11_Settings.png)
+![Windows11 Window](images/Windows11_Window.png)
