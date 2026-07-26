@@ -26,3 +26,6 @@ Build a virtualised home lab environment for learning cybersecurity concepts and
 - Learn Linux fundamentals
 - Explore the Linux file system
 - Learn basic networking commands
+
+! [Kali Linux Settings] (images/KaliLinux_Settings.png)
+! [Kali Linux Window] (images/KaliLinux_Window.png)
