@@ -59,4 +59,6 @@ Others:
 ## Reflection
 Introducing these Linux fundamental commands allowed me to gain knowledge that can be applied throughout the remainder of the home lab when configuring Windows logging, Sysmon, SIEM platforms, and investigating simulated security events. 
 
-
+![Linux Commands Example1](images/LinuxCommands_1.png)
+![Linux Commands Example2](images/LinuxCommands_2.png)
+![Linux Commands Example3](images/LinuxCommands_3.png)
