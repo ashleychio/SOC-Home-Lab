@@ -23,7 +23,7 @@ Install Sysmon on the Windows 11 VM to collect detailed endpoint activity logs f
     - Get-ChildItem = ls
     - whoami = whoami
     - Get-Process = ps
-    - Get-Process -Name <process> = ps aux | grep <process>
+    - Get-Process -Name `<process>` = ps aux | grep `<process>`
 - Sysmon logs can be found in Event Viewer -> Applications and Services Logs -> Microsoft -> Windows -> Sysmon -> Operational
 - Sysmon Event ID 1 is for Process Creation, which records when a process starts
 - Important fields:
