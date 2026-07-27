@@ -53,4 +53,6 @@ Learning Sysmon showed me how it enhances Windows Event Logs by providing more d
 - Explore additional Sysmon events, including Event ID 3 (Network Connections), Event ID 11 (File Creation), and Event ID 13 (Registry Changes)
 - Install Wazuh
 - Create simulated security events and investigate alerts
-  
+
+![Sysmon Installation via PowerShell](images/sysmon_installation.png)
+![Sysmon Event Viewer Window](images/sysmon_eventviewer.png)
