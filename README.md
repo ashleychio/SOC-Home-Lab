@@ -33,7 +33,10 @@ Virtual Machines:
 - Created and configured a Windows 11 vm using Virtual Box
 - Adjusted VM and Windows settings for a complete intial system setup
 
+### Phase 4: Installed Sysmon
+- Installed Sysmon in Windows11 vm
+- Learned how to interpret Sysmon logs
+
 ## Future Plans
-- Install Sysmon
 - Learn Wireshark
 - Build SIEM monitoring with Splunk/Wazuh
