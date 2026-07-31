@@ -12,9 +12,12 @@ Examples:
 - Pinged google.com using PowerShell
 - Used PowerShell to create a network connection to example.com
 
+![Wireshark Example](images/wireshark_window.png)
+
 ## Reflection
 Learning how network traffic occurs and how different protocols work together can help identify suspicious behaviour during investigations. Wireshark is a powerful tool for analysing network traffic, and combining network analysis with Sysmon endpoint logs can provide better visibility and enhance security investigations.
 
 ## Next Steps
 - Install Wazuh
 - Create simulated security events and investigate alerts
+
